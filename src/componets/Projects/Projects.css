@@ -1,0 +1,40 @@
+.projects{
+    
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 50px;
+    
+}
+
+.projects div{
+    margin: 50px;
+    font-size: 20px;
+    
+}
+
+.projects img{
+    width: 80%
+    
+}
+
+.projects a{
+    margin-bottom: 10px;
+    
+}
+
+.arrow{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.arrow button{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    font-size:40px;
+    margin: 0px 50px;
+    
+}
